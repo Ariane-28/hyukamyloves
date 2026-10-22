@@ -135,8 +135,13 @@ main > img:hover {
     transform: scale(1.02);
 }
 
-
 .song-card {
+    background-color: #f5eeee;
+    border: 1px solid #dfc6c9;
+    box-shadow: 0 4px 10px #54252a12;
+    font-family: Georgia, "Times New Roman", serif;
+    letter-spacing: 1px;
+    text-decoration: none;
     display: flex;
     align-items: center;
     gap: 20px;
@@ -186,21 +191,22 @@ main > img:hover {
     letter-spacing: 0.5px;
 }
 
+.song-info h3 a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.song-info h3 a:hover {
+    color: #c05b68;
+    text-decoration: none;
+}
+    
 .song-info p {
     color: #555555;
     margin: 5px 0;
     overflow-wrap: anywhere;
     font-family: "Trebuchet MS", Arial, sans-serif;
     line-height: 1.6;
-    text-decoration: none;
-}
-
-.song-card {
-    background-color: #f5eeee;
-    border: 1px solid #dfc6c9;
-    box-shadow: 0 4px 10px #54252a12;
-    font-family: Georgia, "Times New Roman", serif;
-    letter-spacing: 1px;
     text-decoration: none;
 }
 
