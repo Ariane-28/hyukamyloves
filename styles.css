@@ -89,7 +89,7 @@ main h3 {
 }
 
 main > p {
-    text-spacing: 0.2px;
+    text-spacing: 0.3px;
     background-color: #f7f7f7;
     border: 1px solid #e5e5e5;
     border-left: 4px solid #9e3038;
