@@ -145,8 +145,6 @@ main > img:hover {
     display: flex;
     align-items: center;
     gap: 20px;
-    background-color: #fafafa;
-    border: 1px solid #dddddd;
     border-radius: 22px;
     padding: 18px;
     margin: 18px 0;
