@@ -177,6 +177,7 @@ main > img:hover {
 .song-info h3 {
     color: #8f2932;
     font-family: Georgia, serif;
+    text-decoration: none;
     font-size: 21px;
     margin: 0 0 5px;
     font-family: Georgia, "Times New Roman", serif;
@@ -191,6 +192,7 @@ main > img:hover {
     overflow-wrap: anywhere;
     font-family: "Trebuchet MS", Arial, sans-serif;
     line-height: 1.6;
+    text-decoration: none;
 }
 
 .song-card {
@@ -199,6 +201,7 @@ main > img:hover {
     box-shadow: 0 4px 10px #54252a12;
     font-family: Georgia, "Times New Roman", serif;
     letter-spacing: 1px;
+    text-decoration: none;
 }
 
 footer {
