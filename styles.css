@@ -205,7 +205,7 @@ main > img:hover {
     color: #555555;
     margin: 5px 0;
     overflow-wrap: anywhere;
-    font-family: "Trebuchet MS", Arial, sans-serif;
+    font-family: "Segou-UI", Roboto, sans-serif;
     line-height: 1.6;
     text-decoration: none;
 }
