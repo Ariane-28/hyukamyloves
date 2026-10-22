@@ -65,7 +65,7 @@ nav a:hover {
 }
 
 main {
-    background-color: #ffffff !important;
+    background-color: #ffffff;
     max-width: 900px;
     width: 90%;
     margin: 35px auto;
