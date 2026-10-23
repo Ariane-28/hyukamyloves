@@ -106,6 +106,8 @@ video {
     border-collapse: collapse;
     background-color: #ffffff;
     font-family: Georgia, "Times New Roman", serif;
+    font-weight: bold;
+    text-align: center;
 }
 
 .styled-table th {
