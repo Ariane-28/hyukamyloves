@@ -107,6 +107,7 @@ video {
     background-color: #ffffff;
     font-family: Georgia, "Times New Roman", serif;
     font-weight: bold;
+    table-layout: fixed;
     text-align: center;
 }
 
